@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iEmu Games</string>
+    <string name="tab_explore">iStore Jogos</string>
+    <string name="tab_library">Minha Biblioteca</string>
+    <string name="tab_emulator">Emulador</string>
+    <string name="tab_settings">Ajustes iOS</string>
+    <string name="btn_download">Baixar IPA</string>
+    <string name="btn_install">Instalar</string>
+    <string name="btn_play">Emular Agora</string>
+    <string name="btn_import_ipa">Importar .IPA / .ZIP</string>
+    <string name="section_featured">Destaques da App Store Clássica</string>
+    <string name="section_genres">Categorias</string>
+    <string name="search_placeholder">Buscar jogos iOS (ex: Monkey Ball, Doodle, Flight)...</string>
+</resources>

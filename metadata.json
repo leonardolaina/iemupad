@@ -1,0 +1,6 @@
+{
+  "name": "iEmu Games",
+  "description": "Baixe, gerencie e emule jogos clássicos da Apple Store no Android com suporte a controles táteis, acelerômetro e save states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
